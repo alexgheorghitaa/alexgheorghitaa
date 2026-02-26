@@ -1,21 +1,22 @@
 # Alexandru Gheorghiță
 
-**Embedded & ADAS Software Engineer**
+**Embedded Software Developer** · Transitioning into Automotive & ADAS
 
-Building real-time automotive software in C++17. Focused on ADAS feature development, legacy Simulink migration to modern C++, and sensor fusion algorithms.
+C/C++ developer with hands-on embedded experience (STM32, real-time systems, motor control). Building a portfolio of automotive software projects — ADAS algorithms, Simulink migration, sensor fusion — to move into the automotive SW industry.
 
 ---
 
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Concepts:** Real-time systems · POSIX threads · Kalman filter · PID control · CAN bus · PWM · Hall sensors · GDB · CMake
+**Concepts:** Real-time systems · POSIX threads · PWM · Hall sensors · Interrupts · CMake · GDB · OOP
 
 ---
 
@@ -23,11 +24,11 @@ Building real-time automotive software in C++17. Focused on ADAS feature develop
 
 | Repository | What it does | Stack |
 |---|---|---|
-| [adas-feature-suite](https://github.com/alexgheorghitaa/adas-feature-suite) | Lane Keeping Assist + Forward Collision Warning with PID control | C++17, CMake |
-| [simulink-to-cpp-migration](https://github.com/alexgheorghitaa/simulink-to-cpp-migration) | Migrates Simulink-generated C to C++17 OOP. S-Function bridge keeps backwards compatibility. Equivalence tests prove numerical match | C++17, CMake |
-| [sensor-fusion-cpp](https://github.com/alexgheorghitaa/sensor-fusion-cpp) | Multi-threaded Kalman fusion: Camera + Radar + Ultrasonic on separate threads, fusion on dedicated thread | C++17, pthreads |
-| [realtime-adas-pipeline](https://github.com/alexgheorghitaa/realtime-adas-pipeline) | RT pipeline with priority scheduling, deadline monitoring and latency metrics (min/max/avg per frame) | C++17, POSIX |
-| [Automated-SunShade](https://github.com/alexgheorghitaa/Automated-SunShade) | STM32F4 motor controller: PWM speed control, dual Hall sensor quadrature decoding, block detection via ADC | C, STM32 HAL |
+| [Automated-SunShade](https://github.com/alexgheorghitaa/Automated-SunShade) | STM32F4 motor controller: PWM speed control, dual Hall sensor quadrature decoding, block detection via ADC current feedback | C, STM32 HAL |
+| [adas-feature-suite](https://github.com/alexgheorghitaa/adas-feature-suite) | Portfolio: Lane Keeping Assist + Forward Collision Warning algorithms with PID control | C++17, CMake |
+| [simulink-to-cpp-migration](https://github.com/alexgheorghitaa/simulink-to-cpp-migration) | Portfolio: Migrates Simulink-generated C to C++17 OOP with S-Function bridge and equivalence tests | C++17, CMake |
+| [sensor-fusion-cpp](https://github.com/alexgheorghitaa/sensor-fusion-cpp) | Portfolio: Multi-threaded Kalman fusion — Camera, Radar, Ultrasonic on separate threads | C++17, pthreads |
+| [realtime-adas-pipeline](https://github.com/alexgheorghitaa/realtime-adas-pipeline) | Portfolio: RT pipeline with priority scheduling, deadline monitoring and latency metrics | C++17, POSIX |
 
 ---
 
