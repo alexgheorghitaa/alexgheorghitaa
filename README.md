@@ -2,13 +2,13 @@
 
 # Alexandru Gheorghiță
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Embedded+Software+Developer;C%2B%2B17+%7C+STM32+%7C+Real-time+Systems;Transitioning+into+Automotive+%26+ADAS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Software+%26+Embedded+Developer;C%2B%2B17+%7C+Real-time+Systems+%7C+CMake;Web+%26+Mobile+Development)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-C/C++ developer with hands-on embedded experience — STM32, real-time motor control, interrupt-driven systems. Building a portfolio of automotive software projects to move into the ADAS/automotive SW industry.
+C/C++ developer with hands-on embedded experience — real-time systems, motor control, interrupt-driven firmware. Part-time web and mobile developer (React Native, Firebase). Currently building automotive software projects.
 
 ---
 
